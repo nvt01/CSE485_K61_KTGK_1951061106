@@ -7,8 +7,8 @@
 	</head>
 <body>
 	<div class="col-12 well">
-		<h3 class="text-primary mb-3">Admin</h3>
-		<div class="col-md-12">
+		<h3 class="text-primary" style="padding: 0;">Admin</h3>
+		<div class="col-md-12" style="margin-top: 30px;">
 			<form method="POST" action="add.php">
 				<div class="form-group col-md-3">
 					<label>Họ và tên</label>
